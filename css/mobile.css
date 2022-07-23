@@ -8,8 +8,8 @@
   }
 
   .um .span {
-    left: 11.4rem;
-    color: blue;
+    left: 12.4rem;
+    color: black;
   }
 
   .um .content-coracao {
@@ -17,10 +17,11 @@
   }
 
   .dois {
-    height: 340vh;
+    height: 335vh;
   }
 
   .dois .text {
+    top: 47rem;
     left: 12.9rem;
   }
 
