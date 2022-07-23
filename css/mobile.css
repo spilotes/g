@@ -1,8 +1,21 @@
 @media (max-width: 414px) {
-  .um .content-coracao {
-    left: 12.9rem;
+  .um .patinho {
+    left: 4rem;
   }
+
+  .um .talk {
+    left: 5rem;
+  }
+
+  .um span {
+    left: 5.2rem;
+  }
+
+  .um .content-coracao {
+    left: 7rem;
+  }
+
   .dois .text {
-    left: 1rem;
+    left: 5rem;
   }
 }
