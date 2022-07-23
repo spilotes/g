@@ -1,14 +1,14 @@
 @media (max-width: 414px) {
   .um .patinho {
-    left: 2rem;
+    left: 1.8rem;
   }
 
   .um .talk {
-    left: 7rem;
+    left: 8rem;
   }
 
-  .um span {
-    left: 7.2rem;
+  .um .span {
+    left: 8.2rem;
     color: blue;
   }
 
@@ -17,18 +17,22 @@
   }
 
   .dois {
-    height: 390vh;
+    height: 370vh;
   }
 
   .dois .text {
-    left: 8rem;
+    left: 10rem;
+  }
+
+  .dois p {
+    font-size: 1.2rem;
   }
 
   .dois .pikachu {
-    left: 2rem;
+    left: 1rem;
   }
 
   .dois .puck {
-    left: 6rem;
+    left: 10rem;
   }
 }

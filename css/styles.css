@@ -54,11 +54,12 @@ body {
   cursor: pointer;
   margin: 300px auto;
   transition: all 0.5s ease-in-out;
+  filter: drop-shadow(0 0 3rem purple);
   -webkit-animation: pulsa 1.5s linear 0s infinite;
 }
 
 .um .content-coracao:hover {
-  filter: drop-shadow(0 0 3rem purple);
+  filter: drop-shadow(0 0 5rem purple);
 }
 
 @keyframes pulsa {
