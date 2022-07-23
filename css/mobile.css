@@ -8,7 +8,7 @@
   }
 
   .um .span {
-    left: 12.4rem;
+    left: 12.2rem;
     color: black;
   }
 
@@ -17,7 +17,7 @@
   }
 
   .dois {
-    height: 335vh;
+    height: 340vh;
   }
 
   .dois .text {
@@ -30,10 +30,16 @@
   }
 
   .dois .pikachu {
+    top: 234rem;
     left: 1rem;
   }
 
   .dois .puck {
+    top: 228rem;
     left: 14rem;
+  }
+
+  .dois .start {
+    top: 238rem;
   }
 }
