@@ -17,13 +17,13 @@
   }
 
   .dois {
-    height: 345vh;
+    height: 325vh;
   }
 
   .dois .puck2 {
     width: 5rem;
-    top: 45rem;
-    left: 14rem;
+    top: 47rem;
+    left: 17rem;
   }
 
   .dois .text {
@@ -37,16 +37,16 @@
   }
 
   .dois .pikachu {
-    top: 234rem;
+    top: 224rem;
     left: 1rem;
   }
 
   .dois .puck {
-    top: 228rem;
+    top: 218rem;
     left: 14rem;
   }
 
   .dois .start {
-    top: 241rem;
+    top: 231rem;
   }
 }
