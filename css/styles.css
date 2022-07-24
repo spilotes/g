@@ -16,6 +16,16 @@ body {
   height: 100vh;
 }
 
+.um audio {
+  position: absolute;
+  top: 35rem;
+  width: 17rem;
+  height: 2rem;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%);
+}
+
 .patinho {
   position: absolute;
   width: 11rem;
@@ -54,12 +64,12 @@ body {
   cursor: pointer;
   margin: 300px auto;
   transition: all 0.5s ease-in-out;
-  filter: drop-shadow(0 0 3rem purple);
+  filter: drop-shadow(0 0 2rem purple);
   -webkit-animation: pulsa 1.5s linear 0s infinite;
 }
 
 .um .content-coracao:hover {
-  filter: drop-shadow(0 0 4rem purple);
+  filter: drop-shadow(0 0 2rem #000080);
 }
 
 @keyframes pulsa {
