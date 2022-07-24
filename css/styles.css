@@ -44,7 +44,7 @@ body {
 }
 
 .patinho:hover {
-  transform: scale(1.03);
+  filter: drop-shadow(0 0 0.5rem gold);
 }
 
 .talk {
@@ -147,6 +147,7 @@ body {
   width: 5.6rem;
   top: 42.5rem;
   left: 52rem;
+  filter: drop-shadow(0 0 0.6rem #8a2be2);
 }
 
 .dois p {
@@ -164,7 +165,7 @@ body {
 }
 
 .dois .pikachu:hover {
-  transform: scale(1.03);
+  filter: drop-shadow(0 0 0.5rem #ffda45);
 }
 
 .dois .puck {
