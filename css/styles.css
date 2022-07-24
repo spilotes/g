@@ -69,7 +69,7 @@ body {
 }
 
 .um .content-coracao:hover {
-  filter: drop-shadow(0 0 2rem #000080);
+  filter: drop-shadow(0 0 2rem #ff00ff);
 }
 
 @keyframes pulsa {
