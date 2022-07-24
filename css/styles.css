@@ -26,6 +26,15 @@ body {
   transform: translate(-50%);
 }
 
+.um .span1 {
+  position: absolute;
+  top: 37.4rem;
+  left: 50%;
+  font-size: 0.95rem;
+  margin-right: -50%;
+  transform: translate(-50%);
+}
+
 .patinho {
   position: absolute;
   width: 11rem;
