@@ -1,5 +1,9 @@
 ScrollReveal({ reset: true });
 
+ScrollReveal().reveal(".patinho", {
+  duration: 3000,
+});
+
 ScrollReveal().reveal(".talk", {
   duration: 3000,
   delay: 1500,
@@ -15,5 +19,13 @@ ScrollReveal().reveal(".content-coracao", {
 });
 
 ScrollReveal().reveal(".text", {
+  duration: 3000,
+});
+
+ScrollReveal().reveal("#audio", {
+  duration: 3000,
+});
+
+ScrollReveal().reveal(".span1", {
   duration: 3000,
 });
